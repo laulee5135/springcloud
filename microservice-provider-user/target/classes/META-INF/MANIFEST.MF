@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: microservice-provider-user
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LauLee
+Implementation-Vendor-Id: com.laulee.cloud
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/microservice-spring-cloud/microservice-provider-use
+ r
+Created-By: Maven Integration for Eclipse
+
