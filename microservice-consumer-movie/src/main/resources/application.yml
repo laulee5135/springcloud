@@ -3,7 +3,7 @@ spring:
     name: microservice-consumer-movie
 
 server:
-  port: 7901
+  port: 8001
   
   
 eureka:
