@@ -19,4 +19,8 @@ public class MovieController {
 		return this.restTemplate.getForObject("http://localhost:7900/simple/"+id, User.class);
 	}
 
+	@GetMapping("/test/{id}")
+	public Long test(@PathVariable Long id){
+		return id;
+	}
 }
